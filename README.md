@@ -1,3 +1,5 @@
+#test commit
+
 # SnapshotSESYNC
 
 Snapshot Wisconsin is a statewide volunteer based trail camera project. The specific project we are hoping to work on this week is a data visualization dashboard using Shiny. This dashboard will be used to share data with internal and external stakeholders. We would also like to learn how to resize images in Markdown.
